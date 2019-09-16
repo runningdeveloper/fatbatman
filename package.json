@@ -1,0 +1,26 @@
+{
+  "name": "fatbatman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "deploy": "echo \"hello todo\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runningdeveloper/fatbatman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runningdeveloper/fatbatman/issues"
+  },
+  "homepage": "https://github.com/runningdeveloper/fatbatman#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.9.0",
+    "dateformat": "^3.0.3"
+  }
+}
