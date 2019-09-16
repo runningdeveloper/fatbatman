@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
-    "deploy": "echo \"hello todo\"",
+    "deploy": "gh-pages -d _site",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +22,8 @@
   "dependencies": {
     "@11ty/eleventy": "^0.9.0",
     "dateformat": "^3.0.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
