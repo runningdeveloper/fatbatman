@@ -9,7 +9,7 @@ return `<!doctype html>
 <head>
   <meta charset="utf-8">
   <title>${data.title} | Fat Batman</title>
-  <meta name="description" content="This is a site for some links to experimetal projects I am playing with. But imagine a TV show called Fat Batman, might be funny?">
+  <meta name="description" content="This is a site for some links to experimental projects I am playing with. But imagine a TV show called Fat Batman, might be funny?">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
   <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />

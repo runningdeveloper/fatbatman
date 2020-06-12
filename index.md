@@ -4,7 +4,7 @@ layout: layout.11ty.js
 ---
 
 <div class="nes-container is-rounded">
-  <p>This is a site for some links to experimetal projects I am playing with.</p>
+  <p>This is a site for some links to experimental and old projects I am playing with or have played with.</p>
   <p>fatbatman.com is easy to remeber and type into a browser</p>
 </div>
 <br/>
