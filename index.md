@@ -4,13 +4,9 @@ layout: layout.11ty.js
 ---
 
 <div class="nes-container is-rounded">
-  <p>This is a site for some links to experimental and old projects I am playing with or have played with.</p>
-  <p>fatbatman.com is easy to remeber and type into a browser</p>
+  <p>This is a random domain I own used for experimental projects. Let me know if you want to buy it.</p>
+  <p>fatbatman.com is easy to remember and type into a browser for me</p>
 </div>
-<br/>
-<nav>
-<a href="/projects" class="nes-btn is-primary">Projects</a>
-</nav>
 <br/>
 <div class="batman-talk-div">
     <div class="nes-balloon from-left">

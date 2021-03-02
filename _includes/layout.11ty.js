@@ -67,7 +67,7 @@ ${data.content}
 <span class="nes-text is-primary"><a target="_blank" href="https://twitter.com/geoff4l">@geoff4l</a></span>
 </p>
 
-<p>©2019 Fat Batman<p>
+<p>©2021 Fat Batman<p>
 </footer>
 </div>
 </body>
