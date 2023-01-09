@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/runningdeveloper/fatbatman#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.9.0",
+    "@11ty/eleventy": "^1.0.2",
     "dateformat": "^3.0.3"
   },
   "devDependencies": {
