@@ -78,7 +78,6 @@ ${data.content}
 <footer>
 <p>
 <span class="nes-text is-primary"><a target="_blank" href="https://runningdeveloper.com">runningdeveloper.com</a></span>
-<span class="nes-text is-primary"><a target="_blank" href="https://twitter.com/geoff4l">@geoff4l</a></span>
 </p>
 
 <p>©2019 Fat Batman<p>
